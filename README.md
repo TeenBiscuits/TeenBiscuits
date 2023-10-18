@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeenBiscuits
-- 👀 I’m interested in Computers and Gaming
+- 👀 I’m interested in Computers and Open Source
 - 🌱 I’m currently learning everything I can
 
 <!---
