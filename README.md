@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TeenBiscuits
-- 👀 I’m interested in Computers and Open Source
-- 🌱 I’m currently learning everything I can
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola!+👋;+Soy+Pablo+Portas+López;Estudante+de+Enxeñería+Informática;Computer+Engineering+Student+at+the+UDC">
+  </a>
+</h1>
 
-<!---
-TeenBiscuits/TeenBiscuits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m also know as @TeenBiscuits
+- 👀 I’m interested in Computers and Open Source
+- 🌱 I’m currently learning everything I can at the University of Coruña, Spain
