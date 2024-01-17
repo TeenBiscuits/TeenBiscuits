@@ -8,7 +8,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,c,python,cloudflare,discord,bots,linux,md,py" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,c,python,cloudflare,discord,bots,linux,md,latex" />
   </a>
 </p>
 
