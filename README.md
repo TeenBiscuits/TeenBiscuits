@@ -1,8 +1,6 @@
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
 <h2 align="center">
-  <a href="perfil-gh">
-    <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola!+👋;+Soy+Pablo+Portas+López;Estudante+de+Enxeñería+Informática;Computer+Engineering+Student+at+the+UDC">
-  </a>
+<a href="perfil-gh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&random=false&width=435&lines=%C2%A1Hola!+%2F+Hello!+%F0%9F%91%8B;Soy+%2F+I+am+Pablo+Portas+L%C3%B3pez+%F0%9F%A4%93;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Estudio+Ingenier%C3%ADa+Inform%C3%A1tica;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+A+Computer+Engineering+Student"/></a>
 </h2>
 
 <!-- https://github.com/tandpfun/skill-icons -->
@@ -24,11 +22,17 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
 
 ***
 
-<div align="center">
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark\&show_icons=true\&locale=es)](perfil-gh) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&theme=dark&locale=es)](perfil-gh)|
-|:--:|:--:|
+
+<div align="left">
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark\&show_icons=true\&locale=es)](perfil-gh)
+
+</div>
+
+<div align="right">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&theme=dark&locale=es)](perfil-gh)
 
 </div>
 
