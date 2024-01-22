@@ -14,15 +14,13 @@
 
 [en]
 
-- 👋 Hi, I’m also know as @TeenBiscuits
-- 👀 I’m interested in Computers and Open Source
-- 🌱 I’m currently learning everything I can at the University of Coruña, Spain
+👋 I am Pablo Portas López, student of Computer Engineering at the University of Coruña 🎓. I am passionate about the world of technology and I am committed to open source 💻.
+I explore the infinite possibilities that computing offers, with a special focus on the development of open source software and technological solutions. I believe in collaboration and sharing knowledge to drive collective growth. Always ready to dive into new challenges and contribute to the advancement of the field. 🚀
 
 [es]
 
-- 👋 Hola, también me conocen como @TeenBiscuits
-- 👀 Estoy interesado en los Ordenadores y Código Abierto
-- 🌱 Actualmente estoy aprendiendo todo lo que puedo en la Universidad de Coruña, España.
+👋 Soy Pablo Portas López, estudiante de Ingeniería Informática en la Universidad da Coruña 🎓. Me apasiona el mundo de la tecnología y estoy comprometido con el código abierto 💻.
+Exploro las infinitas posibilidades que ofrece la informática, con un enfoque especial en el desarrollo de software y soluciones tecnológicas de código abierto. Creo en la colaboración y en compartir conocimientos para impulsar el crecimiento colectivo. Siempre listo para sumergirme en nuevos desafíos y contribuir al avance del campo. 🚀
 
 ***
 
