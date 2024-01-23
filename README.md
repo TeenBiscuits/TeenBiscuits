@@ -1,6 +1,6 @@
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
 <h2 align="center">
-<a href="perfil-gh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&random=false&width=435&lines=%C2%A1Hola!+%2F+Hello!+%F0%9F%91%8B;Soy+%2F+I+am+Pablo+Portas+L%C3%B3pez+%F0%9F%A4%93;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Estudio+Ingenier%C3%ADa+Inform%C3%A1tica;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+A+Computer+Engineering+Student"/></a>
+<a href="perfil-gh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00913FFF&random=false&width=435&lines=%C2%A1Hola!+%2F+Hello!+%F0%9F%91%8B;Soy+%2F+I+am+Pablo+Portas+L%C3%B3pez+%F0%9F%A4%93;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Estudio+Ingenier%C3%ADa+Inform%C3%A1tica;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+A+Computer+Engineering+Student"/></a>
 </h2>
 
 <!-- https://github.com/tandpfun/skill-icons -->
