@@ -40,9 +40,13 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
 
 <div align="right">
 
-  <p>Pablo Portas López</p>
+  Pablo Portas López
   
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0TSIKT) <br/>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0TSIKT)
+
+  
+</div>
+<div align="right">
   <a href="https://github.com/TeenBiscuits">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -52,7 +56,6 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
   <a href="https://twitter.com/PabloPortasL">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-
 </div>
 
 [perfil-gh]: <https://github.com/TeenBiscuits>
