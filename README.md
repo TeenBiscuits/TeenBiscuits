@@ -41,6 +41,8 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
 <div align="right">
 
   <p>Pablo Portas López</p>
+  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0TSIKT) <br/>
   <a href="perfil-gh">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
