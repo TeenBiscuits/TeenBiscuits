@@ -32,7 +32,7 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
 
 <div align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&theme=dark&locale=es)](https://github.com/TeenBiscuits)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&exclude_repo=TeenBiscuits.github.io&theme=dark&locale=es)](https://github.com/TeenBiscuits)
 
 </div>
 
