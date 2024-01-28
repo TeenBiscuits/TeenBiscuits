@@ -12,7 +12,7 @@
 
 [en]
 
-👋 I am Pablo Portas López, student of Computer Engineering at the University of Coruña 🎓. I am passionate about the world of technology and I am committed to open source 💻.
+👋 I am Pablo Portas López, Computer Engineering student at the University of Coruña 🎓. I am passionate about the world of technology and I am committed to open source 💻.
 I explore the infinite possibilities that computing offers, with a special focus on the development of open source software and technological solutions. I believe in collaboration and sharing knowledge to drive collective growth. Always ready to dive into new challenges and contribute to the advancement of the field. 🚀
 
 [es]
