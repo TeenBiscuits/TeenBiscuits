@@ -1,11 +1,11 @@
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
 <h2 align="center">
-<a href="perfil-gh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00913FFF&random=false&width=435&lines=%C2%A1Hola!+%2F+Hello!+%F0%9F%91%8B;Soy+%2F+I+am+Pablo+Portas+L%C3%B3pez+%F0%9F%A4%93;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Estudio+Ingenier%C3%ADa+Inform%C3%A1tica;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+A+Computer+Engineering+Student"/></a>
+<a href="https://github.com/TeenBiscuits"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00913FFF&random=false&width=435&lines=%C2%A1Hola!+%2F+Hello!+%F0%9F%91%8B;Soy+%2F+I+am+Pablo+Portas+L%C3%B3pez+%F0%9F%A4%93;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Estudio+Ingenier%C3%ADa+Inform%C3%A1tica;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+A+Computer+Engineering+Student"/></a>
 </h2>
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
-  <a href="perfil-gh">
+  <a href="https://github.com/TeenBiscuits">
     <img src="https://skillicons.dev/icons?i=git,github,docker,c,python,cloudflare,linux,raspberrypi,md,latex" />
   </a>
 </p>
@@ -26,13 +26,13 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
 
 <div align="left">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark\&show_icons=true\&locale=es)](perfil-gh)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark\&show_icons=true\&locale=es)](https://github.com/TeenBiscuits)
 
 </div>
 
 <div align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&theme=dark&locale=es)](perfil-gh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&theme=dark&locale=es)](https://github.com/TeenBiscuits)
 
 </div>
 
@@ -43,11 +43,15 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
   Pablo Portas López
 
 </div>
+
+<!-- https://github.com/badges/shields -->
+
 <div align="right">
   
   [![github-sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/TeenBiscuits)[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T0TSIKT)[![paypalme](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](http://paypal.me/pabloportaslopez)  
   
 </div>
+
 <div align="right">
   <a href="https://github.com/TeenBiscuits">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -59,7 +63,3 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </div>
-
-[perfil-gh]: <https://github.com/TeenBiscuits>
-[linkedin]: <https://www.linkedin.com/in/pabloportaslopez/>
-[twitter]: <https://twitter.com/PabloPortasL>
