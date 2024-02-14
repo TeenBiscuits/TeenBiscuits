@@ -1,6 +1,6 @@
 <h2>
 
-![Social Image](https://github.com/TeenBiscuits/TeenBiscuits/assets/81629707/13220598-2168-4ce2-b31f-6edd16b76940)
+[![Social Image](https://github.com/TeenBiscuits/TeenBiscuits/assets/81629707/13220598-2168-4ce2-b31f-6edd16b76940)](https://pablopl.framer.website/)
   
 </h2>
 
