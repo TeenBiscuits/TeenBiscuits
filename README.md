@@ -21,12 +21,16 @@
 
 <div>
 
+
 :gb:
+
 
 👋 I am Pablo Portas López, Computer Engineering student at the University of Coruña 🎓. I am passionate about the world of technology and I am committed to open source 💻.
 I explore the infinite possibilities that computing offers, with a special focus on the development of open source software and technological solutions. I believe in collaboration and sharing knowledge to drive collective growth. Always ready to dive into new challenges and contribute to the advancement of the field. 🚀
 
+
 :es:
+
 
 👋 Soy Pablo Portas López, estudiante de Ingeniería Informática en la Universidad da Coruña 🎓. Me apasiona el mundo de la tecnología y estoy comprometido con el código abierto 💻.
 Exploro las infinitas posibilidades que ofrece la informática, con un enfoque especial en el desarrollo de software y soluciones tecnológicas de código abierto. Creo en la colaboración y en compartir conocimientos para impulsar el crecimiento colectivo. Siempre listo para sumergirme en nuevos desafíos y contribuir al avance del campo. 🚀
