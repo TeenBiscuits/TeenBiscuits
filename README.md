@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Social Image](./images/Social-Image-Oxi.png)](https://cronosquare.pablopl.dev/)
+[![Social Image](./images/Social-Image-Oxi.png)](https://pablopl.dev/)
   
 </h1>
 
@@ -59,6 +59,6 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
 
 <div align="center">
   
-  [![Personal Website](https://img.shields.io/badge/website-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://cronosquare.pablopl.dev/)[![github-sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/TeenBiscuits)[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T0TSIKT)[![paypalme](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pabloportaslopez)[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeenBiscuits)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloportaslopez)[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/PabloPortasL)
+  [![Personal Website](https://img.shields.io/badge/website-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://pablopl.dev/)[![github-sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/TeenBiscuits)[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T0TSIKT)[![paypalme](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pabloportaslopez)[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeenBiscuits)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloportaslopez)[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/PabloPortasL)
   
 </div>
