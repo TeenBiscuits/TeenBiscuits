@@ -52,14 +52,24 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
     srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark&show_icons=true&locale=es&include_all_commits=true&"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark&show_icons=true&locale=es&include_all_commits=true&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark&show_icons=true&locale=es&include_all_commits=true" />
 </picture>
 
 </div>
 
 <div align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&exclude_repo=TeenBiscuits.github.io&theme=dark&locale=es)](https://github.com/TeenBiscuits)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&exclude_repo=TeenBiscuits.github.io&theme=dark&locale=es&theme=dark"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&exclude_repo=TeenBiscuits.github.io&theme=dark&locale=es&"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&layout=compact&exclude_repo=TeenBiscuits.github.io&theme=dark&locale=es" />
+</picture>
 
 </div>
 
