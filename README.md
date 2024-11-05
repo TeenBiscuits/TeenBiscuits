@@ -43,7 +43,17 @@ Exploro las infinitas posibilidades que ofrece la informática, con un enfoque e
 
 <div align="left">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark\&show_icons=true\&locale=es)](https://github.com/TeenBiscuits)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark&show_icons=true&locale=es&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark&show_icons=true&locale=es&include_all_commits=true&"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&theme=dark&show_icons=true&locale=es&include_all_commits=true&" />
+</picture>
 
 </div>
 
