@@ -39,14 +39,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&theme=dark&exclude_repo=Pasame-Codigo"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&exclude_repo=Pasame-Codigo"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&exclude_repo=Pasame-Codigo" />
 </picture>
 
 </div>
