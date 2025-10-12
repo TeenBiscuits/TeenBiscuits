@@ -27,14 +27,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es&theme=dark&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es&theme=dark"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es" />
 </picture>
 
 <picture>
