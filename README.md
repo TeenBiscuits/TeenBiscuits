@@ -15,7 +15,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
   <a href="https://github.com/TeenBiscuits">
-    <img src="https://skillicons.dev/icons?i=git,github,c,python,js,java,ocaml,cloudflare,vercel,astro,pnpm,deno,bun,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,python,js,java,ocaml,cloudflare,vercel,astro,pnpm,deno,bun,linux,docker&perline=8" />
   </a>
 </div>
 
