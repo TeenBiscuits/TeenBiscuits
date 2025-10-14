@@ -53,6 +53,10 @@
 
 ***
 
+[![An image of @teenbiscuits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/teenbiscuits)](https://holopin.io/@teenbiscuits)
+
+***
+
 <!-- https://github.com/badges/shields -->
 
 <div align="center">
