@@ -1,7 +1,7 @@
 <h1 align="center">
 
-[![Social Image](./images/Social-Image-Oxi.png)](https://pablopl.dev/)
-  
+[![Social Image](./images/OG-BANNER.png)](https://pablopl.dev/)
+
 </h1>
 
 
@@ -60,7 +60,7 @@
 <!-- https://github.com/badges/shields -->
 
 <div align="center">
-  
+
   [![Personal Website](https://img.shields.io/badge/website-0055FF?style=for-the-badge&logoColor=white)](https://pablopl.dev/)[![github-sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/TeenBiscuits)[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/T6T0TSIKT)[![paypalme](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pabloportaslopez)[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeenBiscuits)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloportaslopez)[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/PabloPortasL)[![bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/pablopl.dev)
-  
+
 </div>
