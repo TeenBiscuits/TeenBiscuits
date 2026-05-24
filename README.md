@@ -26,26 +26,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es&theme=dark"
+    srcset="https://github-readme-stats-teenbiscuits.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es&theme=dark"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es"
+    srcset="https://github-readme-stats-teenbiscuits.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es" />
+  <img src="https://github-readme-stats-teenbiscuits.vercel.app/api?username=TeenBiscuits&show_icons=true&locale=es" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&theme=dark&exclude_repo=Pasame-Codigo"
+    srcset="https://github-readme-stats-teenbiscuits.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&theme=dark&exclude_repo=Pasame-Codigo"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&exclude_repo=Pasame-Codigo"
+    srcset="https://github-readme-stats-teenbiscuits.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&exclude_repo=Pasame-Codigo"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&exclude_repo=Pasame-Codigo" />
+  <img src="https://github-readme-stats-teenbiscuits.vercel.app/api/top-langs/?username=TeenBiscuits&locale=es&layout=compact&exclude_repo=Pasame-Codigo" />
 </picture>
 
 </div>
