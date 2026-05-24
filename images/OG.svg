@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <title id="svg-title">Hand-Writing SVG Generator Output</title>
+  <desc id="svg-desc">Animated SVG generated from multiple hand-drawn canvas strokes.</desc>
+  <rect x="0" y="0" width="1200" height="630" fill="#ebebeb"/>
+  <g transform="matrix(1, 0, 0, 1, 196.416763, 51.787758)">
+    <path id="59cedde9-e97e-46fb-855e-68c54b528789-0" d="M 194.9 256.6 Q 194.9 256.6 225.65 254.25 Q 256.4 251.9 292.25 244.35 Q 328.1 236.8 351.9 229.1 Q 375.7 221.4 388.15 214.6 Q 400.6 207.8 407.55 200 Q 414.5 192.2 417 185.3 Q 419.5 178.4 418.5 172.4 Q 417.5 166.4 409.55 154.85 Q 401.6 143.3 396.35 140.1 Q 391.1 136.9 374.2 133.15 L 357.3 129.4" fill="none" stroke="#161a1d" stroke-width="8.45" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="336.05 336.05" stroke-dashoffset="336.05" opacity="0">
+      <animate attributeName="opacity" begin="0.000s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="0.000s" dur="0.336s" from="336.05" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="59cedde9-e97e-46fb-855e-68c54b528789-1" d="M 357.3 129.4 Q 357.3 129.4 338.7 128 Q 320.1 126.6 284.15 129.3 Q 248.2 132 217.1 136.95 Q 186 141.9 163.3 150.55 Q 140.6 159.2 133.6 163.45 L 126.6 167.7" fill="none" stroke="#161a1d" stroke-width="10.00" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="237.35 237.35" stroke-dashoffset="237.35" opacity="0">
+      <animate attributeName="opacity" begin="0.336s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="0.336s" dur="0.237s" from="237.35" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="88486694-918b-4a97-a981-aad9afdb237c-0" d="M 285.1 79.6 L 271.9 151.9" fill="none" stroke="#161a1d" stroke-width="8.76" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="73.50 73.50" stroke-dashoffset="73.50" opacity="0">
+      <animate attributeName="opacity" begin="0.300s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="0.300s" dur="0.073s" from="73.50" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="88486694-918b-4a97-a981-aad9afdb237c-1" d="M 271.9 151.9 Q 271.9 151.9 245.05 249.35 Q 218.2 346.8 215.55 356.95 L 212.9 367.1" fill="none" stroke="#161a1d" stroke-width="9.91" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="223.14 223.14" stroke-dashoffset="223.14" opacity="0">
+      <animate attributeName="opacity" begin="0.373s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="0.373s" dur="0.223s" from="223.14" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="88486694-918b-4a97-a981-aad9afdb237c-2" d="M 212.9 367.1 L 211.5 371.3" fill="none" stroke="#161a1d" stroke-width="11.08" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.43 4.43" stroke-dashoffset="4.43" opacity="0">
+      <animate attributeName="opacity" begin="0.597s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="0.597s" dur="0.004s" from="4.43" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="1f99fc20-3799-4952-8f0a-8a2f62ab2ca3-0" d="M 351.4 309.6 Q 351.4 309.6 350.3 305.4 Q 349.2 301.2 345.6 299.85 Q 342 298.5 330.9 303.4 Q 319.8 308.3 312.45 318.85 Q 305.1 329.4 306.65 339.3 Q 308.2 349.2 313.4 351.95 Q 318.6 354.7 323.7 354.15 Q 328.8 353.6 335.55 344.85 Q 342.3 336.1 346.15 327.25 Q 350 318.4 350.6 331.25 Q 351.2 344.1 353.35 347.9 Q 355.5 351.7 360.05 352.15 Q 364.6 352.6 375.2 346.25 Q 385.8 339.9 395.2 330.85 Q 404.6 321.8 421.75 299.95 Q 438.9 278.1 451.05 255.9 Q 463.2 233.7 466.9 214.75 Q 470.6 195.8 469.35 182.7 Q 468.1 169.6 459.3 182.35 Q 450.5 195.1 441.3 223 Q 432.1 250.9 429.2 284.8 Q 426.3 318.7 428.7 327.05 Q 431.1 335.4 433.75 338.25 Q 436.4 341.1 441.35 339.75 Q 446.3 338.4 452.5 332.7 Q 458.7 327 462.75 313.2 Q 466.8 299.4 472.5 299.5 Q 478.2 299.6 486 296.7 Q 493.8 293.8 505.6 279.5 Q 517.4 265.2 529.1 234.85 Q 540.8 204.5 540.25 190.85 Q 539.7 177.2 536.05 172.65 Q 532.4 168.1 526.6 173.6 Q 520.8 179.1 517.35 189.5 Q 513.9 199.9 503.3 246.45 Q 492.7 293 492.05 309.15 Q 491.4 325.3 493.05 328.3 Q 494.7 331.3 500.9 331 Q 507.1 330.7 522.15 320.65 Q 537.2 310.6 544.75 301.95 Q 552.3 293.3 550.9 292.4 Q 549.5 291.5 543.95 296.85 Q 538.4 302.2 534.45 312.45 Q 530.5 322.7 532.3 330.5 Q 534.1 338.3 540.9 340.15 Q 547.7 342 555.05 337.95 Q 562.4 333.9 570.85 322.85 Q 579.3 311.8 579.85 306.75 Q 580.4 301.7 574 295.5 L 567.6 289.3" fill="none" stroke="#161a1d" stroke-width="9.20" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1210.86 1210.86" stroke-dashoffset="1210.86" opacity="0">
+      <animate attributeName="opacity" begin="0.600s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="0.600s" dur="1.211s" from="1210.86" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="1f99fc20-3799-4952-8f0a-8a2f62ab2ca3-1" d="M 567.6 289.3 Q 567.6 289.3 582.2 288.85 Q 596.8 288.4 612.7 291.65 Q 628.6 294.9 641.8 294.65 Q 655 294.4 667.9 291.15 Q 680.8 287.9 693.3 281.55 Q 705.8 275.2 706.25 273.85 L 706.7 272.5" fill="none" stroke="#161a1d" stroke-width="10.98" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="145.57 145.57" stroke-dashoffset="145.57" opacity="0">
+      <animate attributeName="opacity" begin="1.811s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="1.811s" dur="0.146s" from="145.57" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="794a4304-dd4c-4a5e-b9b5-2ec0a5b9045b-0" d="M 702.8 127.3 Q 702.8 127.3 702.85 132.3 Q 702.9 137.3 683.45 196.9 Q 664 256.5 644.4 300.3 Q 624.8 344.1 603.05 386.35 Q 581.3 428.6 581.85 427.25 Q 582.4 425.9 574.1 446.5 Q 565.8 467.1 567.65 466.25 Q 569.5 465.4 598.65 437.55 Q 627.8 409.7 626.9 410.7 Q 626 411.7 662.8 383.75 Q 699.6 355.8 704.1 349.5 Q 708.6 343.2 667.6 348.25 L 626.6 353.3" fill="none" stroke="#161a1d" stroke-width="8.61" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="651.65 651.65" stroke-dashoffset="651.65" opacity="0">
+      <animate attributeName="opacity" begin="0.900s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="0.900s" dur="0.652s" from="651.65" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="794a4304-dd4c-4a5e-b9b5-2ec0a5b9045b-1" d="M 626.6 353.3 Q 626.6 353.3 593.2 359.9 Q 559.8 366.5 374.3 387.7 Q 188.8 408.9 162.7 413.5 Q 136.6 418.1 138.25 417.75 L 139.9 417.4" fill="none" stroke="#161a1d" stroke-width="10.12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="497.88 497.88" stroke-dashoffset="497.88" opacity="0">
+      <animate attributeName="opacity" begin="1.552s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="1.552s" dur="0.498s" from="497.88" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+    <path id="794a4304-dd4c-4a5e-b9b5-2ec0a5b9045b-2" d="M 139.9 417.4 Q 139.9 417.4 115.9 423.15 Q 91.9 428.9 80.45 429.25 L 69 429.6" fill="none" stroke="#161a1d" stroke-width="11.71" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="72.27 72.27" stroke-dashoffset="72.27" opacity="0">
+      <animate attributeName="opacity" begin="2.050s" dur="0.001s" from="0" to="1" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" begin="2.050s" dur="0.072s" from="72.27" to="0" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1" keyTimes="0;1"/>
+    </path>
+  </g>
+</svg>
